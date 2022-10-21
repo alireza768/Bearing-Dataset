@@ -7,7 +7,7 @@
 - Invalve all wrong assembly of conrod-bearing
 - Using 8-megapixel Raspberry Pi camera to collect the images
 - annotate the data in the YOLO format
- 
+
 # Pre Processing
 
 **Traditional data augmentation**
@@ -17,5 +17,21 @@
 
 **Deeplearning based filters**
 - Dexi-Ned
-- Phase steretch transform
+- Phase Steretch Transform
+
+# Approches
+
+**Classification**
+- Architecture Selection
+- Transfer Learning
+- Dexi-Ned / Phase Steretch Transform
+- Traditional data augmentation
+
+**Object Detection**
+- images Annotation
+- Architecture Selection
+
+**Segmentation**
+- images Annotation
+- Architecture Selection
 
