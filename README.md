@@ -38,11 +38,11 @@
 # Setup
 ```
 Data
-|-- checkpoints
-|  |-- Classification 
-|  |  |-- Xception model.h5
-|  |-- Segmentation 
-|  |  |-- segmentation model.h5
+ |-- checkpoints
+ |  |-- Classification 
+ |  |  |-- Xception model.h5
+ |  |-- Segmentation 
+ |  |  |-- segmentation model.h5
  |-- Classification Data
  |  |-- Classification Train
  |  |  |-- 1
@@ -61,7 +61,7 @@ Data
  |  |  |-- 14
  |  |  |-- 15
  |  |  |-- 16
- |  |-- Classification Test
+ |  |-- Classification Validation
  |  |  |-- 1
  |  |  |-- 2
  |  |  |-- 3
@@ -78,12 +78,15 @@ Data
  |  |  |-- 14
  |  |  |-- 15
  |  |  |-- 16
+ |  |-- Classification Test
  |-- Segmentation Data
  |  |-- segmentation Train
  |  |  |-- Images
  |  |  |-- Images Masks
- |  |-- segmentation Test
+ |  |-- segmentation Validation
  |  |  |-- Images
  |  |  |-- Images Masks
+ |  |-- segmentation Test
  ...
 ```
+## Usage
