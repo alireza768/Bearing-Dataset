@@ -9,4 +9,4 @@
 - annotate the data in the YOLO format 
 # Pre Processing
 
-** Traditional **
+**Traditional**
