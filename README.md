@@ -91,3 +91,7 @@ Data
 ```
 ## Usage
 
+- Insert test image in the Classification Test folder
+- Run Classification Test.py
+- Insert test image in the Segmentation Test folder
+- Run Segmentation Test.py
