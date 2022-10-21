@@ -28,10 +28,62 @@
 - Traditional data augmentation
 
 **Object Detection**
-- images Annotation
+- Images Annotation
 - Architecture Selection
 
 **Segmentation**
-- images Annotation
+- Images Annotation
 - Architecture Selection
 
+# Setup
+
+Data
+ |-- checkpoints
+ |  |-- Classification 
+ |  |  |-- Xception model.h5
+ |  |-- Segmentation 
+ |  |  |-- segmentation model.h5
+ |-- Classification Data
+ |  |-- Classification Train
+ |  |  |-- 1
+ |  |  |-- 2
+ |  |  |-- 3
+ |  |  |-- 4
+ |  |  |-- 5
+ |  |  |-- 6
+ |  |  |-- 7
+ |  |  |-- 8
+ |  |  |-- 9
+ |  |  |-- 10
+ |  |  |-- 11
+ |  |  |-- 12
+ |  |  |-- 13
+ |  |  |-- 14
+ |  |  |-- 15
+ |  |  |-- 16
+ |  |-- Classification Test
+ |  |  |-- 1
+ |  |  |-- 2
+ |  |  |-- 3
+ |  |  |-- 4
+ |  |  |-- 5
+ |  |  |-- 6
+ |  |  |-- 7
+ |  |  |-- 8
+ |  |  |-- 9
+ |  |  |-- 10
+ |  |  |-- 11
+ |  |  |-- 12
+ |  |  |-- 13
+ |  |  |-- 14
+ |  |  |-- 15
+ |  |  |-- 16
+ |-- Segmentation Data
+ |  |-- segmentation Train
+ |  |  |-- Images
+ |  |  |-- Images Masks
+ |  |-- segmentation Test
+ |  |  |-- Images
+ |  |  |-- Images Masks
+ ...
+```
