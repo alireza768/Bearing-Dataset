@@ -36,7 +36,7 @@
 - Architecture Selection
 
 # Setup
-
+```
 Data
 |-- checkpoints
 |  |-- Classification 
