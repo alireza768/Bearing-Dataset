@@ -38,11 +38,11 @@
 # Setup
 
 Data
- |-- checkpoints
- |  |-- Classification 
- |  |  |-- Xception model.h5
- |  |-- Segmentation 
- |  |  |-- segmentation model.h5
+|-- checkpoints
+|  |-- Classification 
+|  |  |-- Xception model.h5
+|  |-- Segmentation 
+|  |  |-- segmentation model.h5
  |-- Classification Data
  |  |-- Classification Train
  |  |  |-- 1
