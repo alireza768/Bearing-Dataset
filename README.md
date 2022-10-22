@@ -7,8 +7,7 @@
 - Invalve all wrong assembly of conrod-bearing
 - Using 8-megapixel Raspberry Pi camera to collect the images
 - annotate the data in the YOLO format
-
-*Download Dataset [**(Classification & Detection Dataset)**](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing)*
+- Download Dataset [**(Classification & Detection)**]()
 
 # Pre Processing
 
