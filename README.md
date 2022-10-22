@@ -104,3 +104,11 @@ Data
 
 - Insert test image in the Bearing_test_images folder in google drive
 - Run Detection Test.ipynb
+
+## Implementation classification approch in industrial
+
+- Using rasppbery pi4 8GB
+- Using 8MP v2 raspbbery pi camera
+- Using .h5 file trained in classification approch
+- using tensorflow lite on raspbbery pi
+- using GPIO of raspbbery pi to saying the result of process
