@@ -90,12 +90,17 @@ Data
  ...
 ```
 ## Usage
+
 **Classification**
 - Insert test image in the Classification Test folder
 - Run Classification Test.py
+
 **Segmentation**
+
 - Insert test image in the Segmentation Test folder
 - Run Segmentation Test.py
+
 **Detection**
+
 - Insert test image in the Bearing_test_images folder in google drive
 - Run Detection Test.ipynb
