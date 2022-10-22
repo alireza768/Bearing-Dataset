@@ -7,6 +7,7 @@
 - Invalve all wrong assembly of conrod-bearing
 - Using 8-megapixel Raspberry Pi camera to collect the images
 - annotate the data in the YOLO format
+*Download Dataset [**(Train set - 13GB)**]
 
 # Pre Processing
 
