@@ -103,7 +103,8 @@ Data
 
 **Detection**
 
-- Insert test image in the Bearing_test_images folder in google drive
+- Download Yolov4 folder and insert in google drive [**(Yolov4)**]()
+- Create a Bearing_test_images folder in google drive and insert a custume image in the folder
 - Run Detection Test.ipynb
 
 ## Implementation classification approch in industrial
