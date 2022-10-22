@@ -7,7 +7,7 @@
 - Invalve all wrong assembly of conrod-bearing
 - Using 8-megapixel Raspberry Pi camera to collect the images
 - annotate the data in the YOLO format
-*Download Dataset [**(Train set - 13GB)**](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing) **/** [**(Test set - Part 1 - 12.8GB)**](https://drive.google.com/file/d/1C5kM2DVIPdNCaX1Du_OJhiQaIpEAHeO3/view?usp=sharing) **/** [**(Test set - Part 2 - 12GB)**](https://drive.google.com/file/d/1otwKQJESgbA-77ZdamrFXAKGeeuCBQPy/view?usp=sharing) **/** [(**Traffic Camera**)][]
+*Download Dataset [**(Train set - 13GB)**](https://drive.google.com/file/d/1Hx1jz6HI7oolQbv7F5Kd68My0SW9jrny/view?usp=sharing) **/** []
 
 # Pre Processing
 
