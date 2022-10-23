@@ -39,7 +39,8 @@
 - Images Annotation
 - Architecture Selection
 
-![Capture](https://user-images.githubusercontent.com/85845544/197379710-524ba3e9-14cc-43e9-9be4-628d386e3427.JPG)
+![Capture](https://user-images.githubusercontent.com/85845544/197385017-4ff4b7d7-1f2c-4855-8666-83f877e5fb5e.JPG)
+
 
 # Setup
 ```
@@ -54,35 +55,17 @@ Data
  |  |  |-- 1
  |  |  |-- 2
  |  |  |-- 3
- |  |  |-- 4
- |  |  |-- 5
- |  |  |-- 6
- |  |  |-- 7
- |  |  |-- 8
- |  |  |-- 9
- |  |  |-- 10
- |  |  |-- 11
- |  |  |-- 12
- |  |  |-- 13
- |  |  |-- 14
- |  |  |-- 15
+        ...
+        ...
+        ...
  |  |  |-- 16
  |  |-- Classification Validation
  |  |  |-- 1
  |  |  |-- 2
  |  |  |-- 3
- |  |  |-- 4
- |  |  |-- 5
- |  |  |-- 6
- |  |  |-- 7
- |  |  |-- 8
- |  |  |-- 9
- |  |  |-- 10
- |  |  |-- 11
- |  |  |-- 12
- |  |  |-- 13
- |  |  |-- 14
- |  |  |-- 15
+        ...
+        ...
+        ...
  |  |  |-- 16
  |  |-- Classification Test
  |-- Segmentation Data
