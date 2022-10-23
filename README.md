@@ -9,7 +9,7 @@
 - annotate the data in the YOLO format
 - Download classification dataset [**(Classification Data)**](https://drive.google.com/file/d/1x1fWg54HHkBc4zABBs3n2Szl6izrwr3n/view?usp=sharing)
 - Download detection dataset [**(Detection Data)**](https://drive.google.com/file/d/13qtMvgaqP61M0iQkpjxUt4VBJAKlkvl8/view?usp=sharing)
-- Download segmentation dataset [**(Segmentation Data)**]()
+- Download segmentation dataset [**(Segmentation Data)**](https://drive.google.com/file/d/1AxQGpTHrd4rRwLRwhj3ROJuT0lWSpeG5/view?usp=sharing)
 
 ![Capture](https://user-images.githubusercontent.com/85845544/197382474-270632ca-1a53-483b-abfa-61344cb1d571.JPG)
 
@@ -90,7 +90,7 @@ Data
 - Run Classification Test.py
 
 **Segmentation**
-- Download Segmentation model.h5 and insert in "checkpoints" folder [**(Segmentation model)**]()
+- Download Segmentation model.h5 and insert in "checkpoints" folder [**(Segmentation model)**](https://drive.google.com/file/d/1Lgp7sLMFQNq0uQMpmch66KbsrDpPzbk_/view?usp=sharing)
 - Insert test image in the "Segmentation Test" folder
 - Run Segmentation Test.py
 
