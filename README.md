@@ -93,11 +93,12 @@ Data
 ## Usage
 
 **Classification**
+- Download Xception model.h5 and insert in checkpoints folder [**(xception model)**]
 - Insert test image in the Classification Test folder
 - Run Classification Test.py
 
 **Segmentation**
-
+- Download Segmentation model.h5 and insert in checkpoints folder [**(segmentation model)**]
 - Insert test image in the Segmentation Test folder
 - Run Segmentation Test.py
 
