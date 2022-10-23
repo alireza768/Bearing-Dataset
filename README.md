@@ -98,19 +98,19 @@ Data
 ## Usage
 
 **Classification**
-- Download Xception model.h5 and insert in checkpoints folder [**(Xception model)**](https://drive.google.com/file/d/1pkuIa-d7a8mNGxbwka7QeBu-W3zoBXpZ/view?usp=sharing)
-- Insert test image in the Classification Test folder
+- Download Xception model.h5 and insert in "checkpoints" folder [**(Xception model)**](https://drive.google.com/file/d/1pkuIa-d7a8mNGxbwka7QeBu-W3zoBXpZ/view?usp=sharing)
+- Insert test image in the "Classification Test" folder
 - Run Classification Test.py
 
 **Segmentation**
-- Download Segmentation model.h5 and insert in checkpoints folder [**(Segmentation model)**]
-- Insert test image in the Segmentation Test folder
+- Download Segmentation model.h5 and insert in "checkpoints" folder [**(Segmentation model)**]
+- Insert test image in the "Segmentation Test" folder
 - Run Segmentation Test.py
 
 **Detection**
 
-- Download Yolov4 folder and insert in google drive [**(Yolov4)**](https://drive.google.com/drive/folders/1EDUZ6yi2qUP65OGfx7cfDpPRSNAvPrPe?usp=sharing)
-- Create a Bearing_test_images folder in google drive and insert a custume image in the folder
+- Download "Yolov4" folder and insert in google drive [**(Yolov4)**](https://drive.google.com/drive/folders/1EDUZ6yi2qUP65OGfx7cfDpPRSNAvPrPe?usp=sharing)
+- Create a "Bearing_test_images" folder in google drive and insert a custume image in the folder
 - Run Detection Test.ipynb
 
 ![predictions ](https://user-images.githubusercontent.com/85845544/197379493-e1580868-cd68-471b-ba76-e1334bfe0647.jpg)
