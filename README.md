@@ -90,7 +90,7 @@ Data
 - Run Classification Test.py
 
 **Segmentation**
-- Download Segmentation model.h5 and insert in "checkpoints" folder [**(Segmentation model)**]
+- Download Segmentation model.h5 and insert in "checkpoints" folder [**(Segmentation model)**]()
 - Insert test image in the "Segmentation Test" folder
 - Run Segmentation Test.py
 
