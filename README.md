@@ -28,7 +28,7 @@
 - Dexi-Ned
 - Phase Steretch Transform
 
-# Approches
+# Approach
 
 **Classification**
 - Architecture Selection
@@ -102,11 +102,11 @@ Data
 
 ![predictions ](https://user-images.githubusercontent.com/85845544/197379493-e1580868-cd68-471b-ba76-e1334bfe0647.jpg)
 
-## Implementation classification approche in industrial
+## Implementation classification approach in industrial
 
 - Using rasppbery pi4 8GB
 - Using 8MP v2 raspbbery pi camera
-- Using .h5 file trained in classification approche
+- Using .h5 file trained in classification approach
 - using tensorflow lite on raspbbery pi
 - using GPIO of raspbbery pi to saying the result of process
 
