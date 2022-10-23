@@ -7,7 +7,8 @@
 - Invalve all wrong assembly of conrod-bearing
 - Using 8-megapixel Raspberry Pi camera to collect the images
 - annotate the data in the YOLO format
-- Download Dataset [**(Classification & Detection)**]()
+- Download Dataset [**(Classification Data)**](https://drive.google.com/file/d/1x1fWg54HHkBc4zABBs3n2Szl6izrwr3n/view?usp=sharing)
+- Download Dataset [**(Detection Data)**]()
 
 # Pre Processing
 
@@ -93,12 +94,12 @@ Data
 ## Usage
 
 **Classification**
-- Download Xception model.h5 and insert in checkpoints folder [**(xception model)**](https://drive.google.com/file/d/1pkuIa-d7a8mNGxbwka7QeBu-W3zoBXpZ/view?usp=sharing)
+- Download Xception model.h5 and insert in checkpoints folder [**(Xception model)**](https://drive.google.com/file/d/1pkuIa-d7a8mNGxbwka7QeBu-W3zoBXpZ/view?usp=sharing)
 - Insert test image in the Classification Test folder
 - Run Classification Test.py
 
 **Segmentation**
-- Download Segmentation model.h5 and insert in checkpoints folder [**(segmentation model)**]
+- Download Segmentation model.h5 and insert in checkpoints folder [**(Segmentation model)**]
 - Insert test image in the Segmentation Test folder
 - Run Segmentation Test.py
 
