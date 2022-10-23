@@ -35,11 +35,11 @@
 - Dexi-Ned / Phase Steretch Transform
 - Traditional data augmentation
 
-**Object Detection**
+**Segmentation**
 - Images Annotation
 - Architecture Selection
 
-**Segmentation**
+**Detection**
 - Images Annotation
 - Architecture Selection
 
