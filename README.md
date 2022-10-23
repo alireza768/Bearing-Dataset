@@ -43,7 +43,8 @@
 - Images Annotation
 - Architecture Selection
 
-![Capture](https://user-images.githubusercontent.com/85845544/197385017-4ff4b7d7-1f2c-4855-8666-83f877e5fb5e.JPG)
+![Capture111](https://user-images.githubusercontent.com/85845544/197390932-f5590add-bbb7-4552-a41f-7caf18660774.PNG)
+
 
 
 # Setup
