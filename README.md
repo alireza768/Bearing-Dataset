@@ -93,7 +93,7 @@ Data
 ## Usage
 
 **Classification**
-- Download Xception model.h5 and insert in checkpoints folder [**(xception model)**]
+- Download Xception model.h5 and insert in checkpoints folder [**(xception model)**](https://drive.google.com/file/d/1pkuIa-d7a8mNGxbwka7QeBu-W3zoBXpZ/view?usp=sharing)
 - Insert test image in the Classification Test folder
 - Run Classification Test.py
 
