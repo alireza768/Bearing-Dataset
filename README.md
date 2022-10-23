@@ -15,9 +15,13 @@
 # Pre Processing
 
 **Traditional data augmentation**
-- Rotate
-- Flip 
+- Rotate 15 degree
+- Rotate-15 degree
+- Rotate 30 degree
+- Rotate-30 degree
+- Flip horizantal
 - Noise
+- Gaussian Filter
 
 **Deeplearning based filters**
 - Dexi-Ned
