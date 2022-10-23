@@ -116,3 +116,4 @@ Data
 - Using .h5 file trained in classification approche
 - using tensorflow lite on raspbbery pi
 - using GPIO of raspbbery pi to saying the result of process
+![20220813_130507](https://user-images.githubusercontent.com/85845544/197379046-95c4e241-56b0-4b53-8c7b-b8fd0365ac75.jpg)
