@@ -36,6 +36,7 @@
 **Segmentation**
 - Images Annotation
 - Architecture Selection
+![Capture](https://user-images.githubusercontent.com/85845544/197379710-524ba3e9-14cc-43e9-9be4-628d386e3427.JPG)
 
 # Setup
 ```
