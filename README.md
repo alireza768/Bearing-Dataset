@@ -9,6 +9,7 @@
 - annotate the data in the YOLO format
 - Download Dataset [**(Classification Data)**](https://drive.google.com/file/d/1x1fWg54HHkBc4zABBs3n2Szl6izrwr3n/view?usp=sharing)
 - Download Dataset [**(Detection Data)**](https://drive.google.com/file/d/13qtMvgaqP61M0iQkpjxUt4VBJAKlkvl8/view?usp=sharing)
+
 ![Capture](https://user-images.githubusercontent.com/85845544/197382474-270632ca-1a53-483b-abfa-61344cb1d571.JPG)
 
 # Pre Processing
@@ -37,6 +38,7 @@
 **Segmentation**
 - Images Annotation
 - Architecture Selection
+
 ![Capture](https://user-images.githubusercontent.com/85845544/197379710-524ba3e9-14cc-43e9-9be4-628d386e3427.JPG)
 
 # Setup
@@ -110,6 +112,7 @@ Data
 - Download Yolov4 folder and insert in google drive [**(Yolov4)**](https://drive.google.com/drive/folders/1EDUZ6yi2qUP65OGfx7cfDpPRSNAvPrPe?usp=sharing)
 - Create a Bearing_test_images folder in google drive and insert a custume image in the folder
 - Run Detection Test.ipynb
+
 ![predictions ](https://user-images.githubusercontent.com/85845544/197379493-e1580868-cd68-471b-ba76-e1334bfe0647.jpg)
 
 ## Implementation classification approche in industrial
@@ -119,4 +122,5 @@ Data
 - Using .h5 file trained in classification approche
 - using tensorflow lite on raspbbery pi
 - using GPIO of raspbbery pi to saying the result of process
+
 ![20220813_130507](https://user-images.githubusercontent.com/85845544/197379046-95c4e241-56b0-4b53-8c7b-b8fd0365ac75.jpg)
