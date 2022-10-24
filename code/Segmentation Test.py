@@ -206,7 +206,7 @@ def my_custom_func():
     'sigmoid' if n_classes == 1 else 'softmax'
     return
 from keras.models import load_model
-model = load_model('D:/model/Bearing Segmentation.h5', compile=False)
+model = load_model('D:/checkpoints/Segmentation/segmentation model.h5', compile=False)
 model.compile(optim, total_loss, metrics)
 import cv2
 q=480
