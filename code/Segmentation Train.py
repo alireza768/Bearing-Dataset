@@ -40,7 +40,7 @@ def denormalize(x):
 # classes for data loading and preprocessing
 class Dataset:
 
-    CLASSES = ['Healthy', 'Defect']
+    CLASSES = ['healthy', 'defect']
 
     def __init__(
             self,
