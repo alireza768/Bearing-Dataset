@@ -3,6 +3,7 @@ from keras.models import load_model
 from keras.preprocessing import image
 import matplotlib.pyplot as plt
 import numpy as np
+#number of image test for example i=51 for "Bearing_ 51.jpg"
 i = 51
 while True:
 
@@ -27,12 +28,12 @@ while True:
 
     # load model
 
-    model = load_model('D:/model/Best Xeption model.h5')
+    model = load_model('D:/checkpoints/Classification/Xception model.h5')
     model.summary()
 
     # image path
 
-    img_path = 'D:/Data/Classification Validation/13/Bearing_ '+str(i)+'.jpg'
+    img_path = 'D:/Classification Data/Classification Test/Bearing_ '+str(i)+'.jpg'
     i += 1
 
     # load a single image
