@@ -7,15 +7,15 @@ import cv2
 #import keras
 import numpy as np
 import matplotlib.pyplot as plt
-DATA_DIR = ('D:/Segmentation Dataset')
-x_train_dir = os.path.join(DATA_DIR, '01')
-y_train_dir = os.path.join(DATA_DIR, '02')
+DATA_DIR = ('D:/Segmentation Data')
+x_train_dir = os.path.join(DATA_DIR, 'segmentation Train/Images')
+y_train_dir = os.path.join(DATA_DIR, 'segmentation Train/Images Masks')
 
-x_valid_dir = os.path.join(DATA_DIR, '03')
-y_valid_dir = os.path.join(DATA_DIR, '04')
+x_valid_dir = os.path.join(DATA_DIR, 'segmentation Validation/Images')
+y_valid_dir = os.path.join(DATA_DIR, 'segmentation Validation/Images Masks')
 
-x_test_dir = os.path.join(DATA_DIR, 'test image')
-y_test_dir = os.path.join(DATA_DIR, 'test image mask')
+x_test_dir = os.path.join(DATA_DIR, 'segmentation Test/test image')
+y_test_dir = os.path.join(DATA_DIR, 'segmentation Test/test image mask')
 
 # helper function for data visualization
 def visualize(**images):
