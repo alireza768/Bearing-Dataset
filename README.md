@@ -99,7 +99,7 @@ Data
 **Detection**
 
 - Download "Yolov4" folder and insert in google drive [**(Yolov4)**](https://drive.google.com/drive/folders/1EDUZ6yi2qUP65OGfx7cfDpPRSNAvPrPe?usp=sharing)
-- Create a "Bearing_test_images" folder in google drive and insert a custume image in the folder
+- Create a "Bearing_test_images" folder in google drive and insert a custom image in the folder
 - Run Detection Test.ipynb
 
 ![predictions ](https://user-images.githubusercontent.com/85845544/197379493-e1580868-cd68-471b-ba76-e1334bfe0647.jpg)
