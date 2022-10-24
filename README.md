@@ -1,7 +1,7 @@
 # Conrod-Bearing Dataset
 
 - collected from the top view of a 4-cylinder EF7 engine block
-- engine block contains four conrod-bearings
+- engine block contains four moving bearings
 - contains 2000 images in 16 classes
 - image resolution has been set to 3280×2460
 - Invalve all wrong assembly of conrod-bearing
@@ -80,6 +80,8 @@ Data
  |  |  |-- Images
  |  |  |-- Images Masks
  |  |-- segmentation Test
+ |  |  |-- test image
+ |  |  |-- test image mask
  ...
 ```
 ## Usage
