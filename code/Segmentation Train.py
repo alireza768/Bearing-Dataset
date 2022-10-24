@@ -4,15 +4,15 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-DATA_DIR = ('D:/gggg')
-x_train_dir = os.path.join(DATA_DIR, 'tr')
-y_train_dir = os.path.join(DATA_DIR, 'trr')
+DATA_DIR = ('D:/Segmentation Data')
+x_train_dir = os.path.join(DATA_DIR, 'segmentation Train/Images')
+y_train_dir = os.path.join(DATA_DIR, 'segmentation Train/Images Masks')
 
-x_valid_dir = os.path.join(DATA_DIR, 'te1')
-y_valid_dir = os.path.join(DATA_DIR, 'tee1')
+x_valid_dir = os.path.join(DATA_DIR, 'segmentation Validation/Images')
+y_valid_dir = os.path.join(DATA_DIR, 'segmentation Validation/Images Masks')
 
-x_test_dir = os.path.join(DATA_DIR, 'te1')
-y_test_dir = os.path.join(DATA_DIR, 'tee1')
+x_test_dir = os.path.join(DATA_DIR, 'segmentation Test/test image')
+y_test_dir = os.path.join(DATA_DIR, 'segmentation Test/test image mask')
 
 
 # helper function for data visualization
