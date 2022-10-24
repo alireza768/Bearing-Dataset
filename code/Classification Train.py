@@ -19,8 +19,8 @@ x = keras.layers.Dropout(0.2)(x)  # Regularize with dropout
 outputs = keras.layers.Dense(2,activation='softmax')(x)
 model = keras.Model(inputs, outputs)
 model.summary()
-train_dir = ('D:/Data/Classification Train')
-validation_dir = ('D:/Data/Classification Validation')
+train_dir = ('D:/Classification Data/Classification Train')
+validation_dir = ('D:/Classification Data/Classification Validation')
 
 from keras.preprocessing.image import ImageDataGenerator
 
@@ -46,7 +46,7 @@ model.compile(
     metrics=[keras.metrics.CategoricalAccuracy()],
 )
 
-checkpoint_path = 'D:/model/Best Xeption model.h5'
+checkpoint_path = 'D:/checkpoints/Xeption model.h5'
 checkpoint_dir = os.path.dirname(checkpoint_path)
 # metric = 'val_accuracy'
 model_checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
