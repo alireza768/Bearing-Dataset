@@ -14,8 +14,8 @@ y_train_dir = os.path.join(DATA_DIR, '02')
 x_valid_dir = os.path.join(DATA_DIR, '03')
 y_valid_dir = os.path.join(DATA_DIR, '04')
 
-x_test_dir = os.path.join(DATA_DIR, '03')
-y_test_dir = os.path.join(DATA_DIR, '04')
+x_test_dir = os.path.join(DATA_DIR, 'test image')
+y_test_dir = os.path.join(DATA_DIR, 'test image mask')
 
 # helper function for data visualization
 def visualize(**images):
@@ -223,7 +223,7 @@ while True:
 
  DATA_DIR = ('gggg')
  filename = 'D:/Data/Test/50.png'
- cv2.imwrite(filename, b)
+ #cv2.imwrite(filename, b)
  cv2.imwrite('D:/200/' + str(q) + '.png', frame)
  q+=1
  cap.release()
