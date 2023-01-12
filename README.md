@@ -1,12 +1,12 @@
-# Conrod-Bearing Dataset
+# Conrod bearing dataset
 
-- collected from the top view of a 4-cylinder EF7 engine block
-- engine block contains four moving bearings
-- contains 2000 images in 16 classes
-- image resolution has been set to 3280×2460
-- Invalve all wrong assembly of conrod-bearing
+- Being collected from bottom view of four-cylinder engine blocks
+- There are 2 to the power of 4 (means 16) different bearing installation cases (called classes)
+- Containing 2000 images in each 16-class
+- Using an 8MP Raspberry Pi camera for image capture
+- Setting the resolution of images on 3280×2460 pixels
 - Using 8-megapixel Raspberry Pi camera to collect the images
-- annotate the data in the YOLO format
+- Annotating the images in YOLO format
 - Download classification dataset [**(Classification Data)**](https://drive.google.com/file/d/1x1fWg54HHkBc4zABBs3n2Szl6izrwr3n/view?usp=sharing)
 - Download detection dataset [**(Detection Data)**](https://drive.google.com/file/d/13qtMvgaqP61M0iQkpjxUt4VBJAKlkvl8/view?usp=sharing)
 - Download segmentation dataset [**(Segmentation Data)**](https://drive.google.com/file/d/1AxQGpTHrd4rRwLRwhj3ROJuT0lWSpeG5/view?usp=sharing)
