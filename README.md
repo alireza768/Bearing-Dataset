@@ -5,7 +5,7 @@
 - Containing 2000 images in each 16-class
 - Using an 8MP Raspberry Pi camera for image capture
 - Setting the resolution of images on 3280×2460 pixels
-- Using 8-megapixel Raspberry Pi camera to collect the images
+- Using 8MP Raspberry Pi camera to collect the images
 - Annotating the images in YOLO format
 - Download [**(Classification Data)**](https://drive.google.com/file/d/1x1fWg54HHkBc4zABBs3n2Szl6izrwr3n/view?usp=sharing)
 - Download [**(Detection Data)**](https://drive.google.com/file/d/13qtMvgaqP61M0iQkpjxUt4VBJAKlkvl8/view?usp=sharing)
@@ -26,14 +26,14 @@
 
 **Deep learning-based filters**
 - Dexi-Ned
-- Phase Steretch Transform
+- Phase Stretch Transform
 
 # Approach
 
 **Classification**
 - Architecture selection
 - Transfer learning
-- Dexi-Ned / Phase Steretch Transform
+- Dexi-Ned / Phase Stretch Transform
 - Traditional data augmentation
 
 **Segmentation**
